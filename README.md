@@ -9,7 +9,7 @@ TIWG meets regularly to discuss ways to improve the use and understanding of the
 
 ### Advisory support incudes
 * Beta-testing usability and feature updates in the application; [guidelines available](https://github.com/snac-cooperative/snac/wiki/Beta-Testing)
-* Developing a post-SNACSchool questionnaire survey to deliver feedback to the technical team
+* Developing and administering a post-SNACSchool questionnaire regarding the editing interface to deliver feedback to the technical team
 * Developing specs for an external dashboard for scoped data clean-up projects
 
 ### Creating documentation such as
