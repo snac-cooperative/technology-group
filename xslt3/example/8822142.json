@@ -1,0 +1,872 @@
+ {
+  "cpfDescription": {
+    "relations": {
+      "resourceRelation_array": [
+         {
+          "@resourceRelationType":"subjectOf",
+          "@href":"http://hdl.handle.net/10079/bibid/7041959",
+          "@actuate":"onRequest",
+          "relationEntry_array": [
+             {
+              "relationEntry":"[Album concerning William Dodd], 1752-1799."
+             }
+           ],
+          "@role":"http://nrs.harvard.edu/urn-3:FHCL.Hough:12220652",
+          "@type":"simple",
+          "@show":"new"
+         },
+         {
+          "@resourceRelationType":"creatorOf",
+          "@href":"http://nrs.harvard.edu/urn-3:FHCL.Hough:hou00257",
+          "@actuate":"onRequest",
+          "relationEntry_array": [
+             {
+              "relationEntry":"William Dodd papers, 1777."
+             }
+           ],
+          "@role":"http://nrs.harvard.edu/urn-3:FHCL.Hough:12220642",
+          "@type":"simple",
+          "@show":"new"
+         },
+         {
+          "@resourceRelationType":"creatorOf",
+          "@href":"http://nrs.harvard.edu/urn-3:FHCL.Hough:hou01762",
+          "@actuate":"onRequest",
+          "relationEntry_array": [
+             {
+              "relationEntry":"Donald Hyde and Mary Hyde Eccles Autograph Collection, 1505-1957 (inclusive), 1702-1854 (bulk)."
+             }
+           ],
+          "@role":"http://nrs.harvard.edu/urn-3:FHCL.Hough:12220650",
+          "@type":"simple",
+          "@show":"new"
+         },
+         {
+          "@resourceRelationType":"creatorOf",
+          "@href":"http://hdl.handle.net/10079/fa/beinecke.osbfile",
+          "@actuate":"onRequest",
+          "relationEntry_array": [
+             {
+              "relationEntry":"Osborn Manuscript Files"
+             }
+           ],
+          "@role":"http://nrs.harvard.edu/urn-3:FHCL.Hough:12220650",
+          "@type":"simple",
+          "@show":"new"
+         },
+         {
+          "@resourceRelationType":"subjectOf",
+          "@href":"http://hollis.harvard.edu/?itemid=|library/m/aleph|009960302",
+          "@actuate":"onRequest",
+          "relationEntry_array": [
+             {
+              "relationEntry":"Papers &c relating to the fate of the unfortunate Dr. Dodd: scrapbook, 1752-1777."
+             }
+           ],
+          "@role":"http://nrs.harvard.edu/urn-3:FHCL.Hough:12220652",
+          "@type":"simple",
+          "@show":"new"
+         },
+         {
+          "@resourceRelationType":"creatorOf",
+          "@href":"http://nrs.harvard.edu/urn-3:FHCL.Hough:hou01765",
+          "@actuate":"onRequest",
+          "relationEntry_array": [
+             {
+              "relationEntry":"Poems by the late unhappy and lamented William Dodd, LL.D.: manuscript, 1745-1796."
+             }
+           ],
+          "@role":"http://nrs.harvard.edu/urn-3:FHCL.Hough:12220642",
+          "@type":"simple",
+          "@show":"new"
+         },
+         {
+          "@resourceRelationType":"creatorOf",
+          "@href":"http://hollis.harvard.edu/?itemid=|library/m/aleph|012289102",
+          "@actuate":"onRequest",
+          "relationEntry_array": [
+             {
+              "relationEntry":"Reflections on death. By William Dodd, LL.D. late chaplain to the Magdalen."
+             }
+           ],
+          "@role":"http://nrs.harvard.edu/urn-3:FHCL.Hough:12220642",
+          "@type":"simple",
+          "@show":"new"
+         },
+         {
+          "@resourceRelationType":"subjectOf",
+          "@href":"http://hollis.harvard.edu/?itemid=|library/m/aleph|009541250",
+          "@actuate":"onRequest",
+          "relationEntry_array": [
+             {
+              "relationEntry":"The trial and execution of the Reverend William Dodd: manuscript, [not before 1813]."
+             }
+           ],
+          "@role":"http://nrs.harvard.edu/urn-3:FHCL.Hough:12220652",
+          "@type":"simple",
+          "@show":"new"
+         }
+       ],
+      "cpfRelation_array": [
+         {
+          "@arcrole":"http://nrs.harvard.edu/urn-3:FHCL.Hough:12242319",
+          "@href":"http://nrs.harvard.edu/urn-3:FHCL.Hough:8822136",
+          "@actuate":"onRequest",
+          "@cpfRelationType":"associative",
+          "relationEntry_array": [
+             {
+              "relationEntry":"Johnson, Samuel, 1709-1784"
+             }
+           ],
+          "@type":"simple",
+          "@show":"new",
+          "descriptiveNote": {
+            "p_array": [
+              "Johnson composed speeches and petitions for clemency on Dodd's behalf."
+             ]
+           }
+         }
+       ]
+     },
+    "description": {
+      "occupations_array": [
+         {
+          "occupation_array": [
+             {
+              "term": {
+                "@vocabularySource":"aat",
+                "#text":"authors"
+               }
+             },
+             {
+              "term": {
+                "@vocabularySource":"aat",
+                "#text":"clergy"
+               }
+             },
+             {
+              "term": {
+                "@vocabularySource":"aat",
+                "#text":"preachers"
+               }
+             }
+           ]
+         }
+       ],
+      "structureOrGenealogy_array": [
+         {
+          "p_array": [
+            "William Dodd was the eldest of the six children born to Reverend William Dodd (1703?–1757). He married Mary Perkins (d. 1784) in 1751."
+           ]
+         }
+       ],
+      "places_array": [
+         {
+          "place_array": [
+             {
+              "placeEntry_array": [
+                 {
+                  "@vocabularySource":"lcsh",
+                  "placeEntry":"Bourne (Lincolnshire, England)"
+                 }
+               ],
+              "date": {
+                "@standardDate":"1729-05",
+                "#text":"1729 May"
+               },
+              "placeRole": {
+                "#text":"birth"
+               }
+             },
+             {
+              "placeEntry_array": [
+                 {
+                  "@vocabularySource":"lcsh",
+                  "placeEntry":"Clare College (University of Cambridge)"
+                 }
+               ],
+              "dateRange": {
+                "toDate": {
+                  "@standardDate":"1749"
+                 },
+                "fromDate": {
+                  "@standardDate":"1746"
+                 }
+               },
+              "placeRole": {
+                "#text":"education"
+               }
+             },
+             {
+              "placeEntry_array": [
+                 {
+                  "@vocabularySource":"lcsh",
+                  "placeEntry":"London (England)"
+                 }
+               ],
+              "dateRange": {
+                "toDate": {
+                  "@standardDate":"1777"
+                 },
+                "fromDate": {
+                  "@standardDate":"1749"
+                 }
+               },
+              "placeRole": {
+                "#text":"residence"
+               }
+             },
+             {
+              "placeEntry_array": [
+                 {
+                  "@vocabularySource":"lcsh",
+                  "placeEntry":"West Ham (London, England)"
+                 }
+               ],
+              "date": {
+                "@standardDate":"1752",
+                "#text":"1752"
+               },
+              "placeRole": {
+                "#text":"employment"
+               },
+              "descriptiveNote": {
+                "p_array": [
+                  "Appointed curate and lecturer at All Saints' Church."
+                 ]
+               }
+             },
+             {
+              "placeEntry_array": [
+                 {
+                  "@vocabularySource":"lcsh",
+                  "placeEntry":"St. James Garlickhythe (Church : London, England)"
+                 }
+               ],
+              "date": {
+                "@standardDate":"1753",
+                "#text":"1753"
+               },
+              "placeRole": {
+                "#text":"employment"
+               },
+              "descriptiveNote": {
+                "p_array": [
+                  "Dodd obtained a lectureship here."
+                 ]
+               }
+             },
+             {
+              "placeEntry_array": [
+                 {
+                  "@vocabularySource":"lcsh",
+                  "placeEntry":"S. Olave’s Hart Street (Church : London, England)"
+                 }
+               ],
+              "date": {
+                "@standardDate":"1754",
+                "#text":"1754"
+               },
+              "placeRole": {
+                "#text":"employment"
+               },
+              "descriptiveNote": {
+                "p_array": [
+                  "Dodd obtained a lectureship here."
+                 ]
+               }
+             },
+             {
+              "placeEntry_array": [
+                 {
+                  "@vocabularySource":"lcsh",
+                  "placeEntry":"Bedfordshire (England)"
+                 }
+               ],
+              "date": {
+                "@standardDate":"1772",
+                "#text":"1772"
+               },
+              "placeRole": {
+                "#text":"employment"
+               },
+              "descriptiveNote": {
+                "p_array": [
+                  "Preferred for the rectory of Hockliffe."
+                 ]
+               }
+             },
+             {
+              "placeEntry_array": [
+                 {
+                  "@vocabularySource":"lcsh",
+                  "placeEntry":"Tyburn (London, England)"
+                 }
+               ],
+              "date": {
+                "@standardDate":"1777-06-27",
+                "#text":"1777 June 27"
+               },
+              "placeRole": {
+                "#text":"death"
+               },
+              "descriptiveNote": {
+                "p_array": [
+                  "Hanged after conviction for capital forgery."
+                 ]
+               }
+             },
+             {
+              "placeEntry_array": [
+                 {
+                  "@vocabularySource":"lcsh",
+                  "placeEntry":"Middlesex (England)"
+                 }
+               ],
+              "date": {
+                "@standardDate":"1777",
+                "#text":"1777"
+               },
+              "placeRole": {
+                "#text":"interment"
+               },
+              "descriptiveNote": {
+                "p_array": [
+                  "Buried at St. Lawrence's Church in Cowley."
+                 ]
+               }
+             }
+           ]
+         }
+       ],
+      "localDescription_array": [
+         {
+          "@localType":"sex",
+          "term": {
+            "#text":"male"
+           }
+         }
+       ],
+      "languageUsed_array": [
+         {
+          "script": {
+            "#text":"Latin",
+            "@scriptCode":"Latn"
+           },
+          "language": {
+            "@languageCode":"eng",
+            "#text":"English"
+           }
+         }
+       ],
+      "dateRange": {
+        "toDate": {
+          "@standardDate":"1777"
+         },
+        "fromDate": {
+          "@standardDate":"1729"
+         }
+       },
+      "biogHist_array": [
+         {
+          "abstract":"William Dodd (1729–1777) was born in Bourne, England, to Reverend William Dodd, the vicar of Bourne. An author and clergyman with the Church of England, Dodd was nicknamed the “Macaroni Parson” because of his colorful attire and profligate ways. In February 1777, desperate for money to pay his debts, Dodd signed a former student’s name to a £4200 letter of credit. He was convicted for capital forgery and sentenced to death. Samuel Johnson famously wrote letters and drafted public petitions on Dodd’s behalf, but he was hanged in June 1777.",
+          "chronList_array": [
+             {
+              "chronItem_array": [
+                 {
+                  "date": {
+                    "@standardDate":"1729-05",
+                    "#text":"1729 May"
+                   },
+                  "event": {
+                    "#text":"Born in Bourne, England."
+                   }
+                 },
+                 {
+                  "dateRange": {
+                    "toDate": {
+                      "@standardDate":"1749"
+                     },
+                    "fromDate": {
+                      "@standardDate":"1746"
+                     }
+                   },
+                  "event": {
+                    "#text":"Attended Clare College, Cambridge."
+                   }
+                 },
+                 {
+                  "date": {
+                    "@standardDate":"1747",
+                    "#text":"1747"
+                   },
+                  "event": {
+                    "#text":"Published \"Diggon Davy’s Resolution on the Death of his Last Cow.\""
+                   }
+                 },
+                 {
+                  "date": {
+                    "@standardDate":"1751",
+                    "#text":"1751"
+                   },
+                  "event": {
+                    "#text":"Married Mary Perkins."
+                   }
+                 },
+                 {
+                  "date": {
+                    "@standardDate":"1752",
+                    "#text":"1752"
+                   },
+                  "event": {
+                    "#text":"Ordained at Gonville and Caius College and appointed curate at All Saints’ Church in West Ham."
+                   }
+                 },
+                 {
+                  "date": {
+                    "@standardDate":"1752",
+                    "#text":"1752"
+                   },
+                  "event": {
+                    "#text":"Published \"The Beauties of Shakespeare.\""
+                   }
+                 },
+                 {
+                  "date": {
+                    "@standardDate":"1753",
+                    "#text":"1753"
+                   },
+                  "event": {
+                    "#text":"Lectureship at St. James Garlickhythe in London."
+                   }
+                 },
+                 {
+                  "date": {
+                    "@standardDate":"1754",
+                    "#text":"1754"
+                   },
+                  "event": {
+                    "#text":"Lectureship at St. Olave, Hart Street."
+                   }
+                 },
+                 {
+                  "date": {
+                    "@standardDate":"1758",
+                    "#text":"1758"
+                   },
+                  "event": {
+                    "#text":"Hired as chaplain at Magdalen Hospital."
+                   }
+                 },
+                 {
+                  "dateRange": {
+                    "toDate": {
+                      "@standardDate":"1767"
+                     },
+                    "fromDate": {
+                      "@standardDate":"1760"
+                     }
+                   },
+                  "event": {
+                    "#text":"Contributed to and edited \"Christian Magazine.\""
+                   }
+                 },
+                 {
+                  "date": {
+                    "@standardDate":"1765",
+                    "#text":"1765"
+                   },
+                  "event": {
+                    "#text":"Hired as tutor to Philip Stanhope, son of the earl of Chesterfield."
+                   }
+                 },
+                 {
+                  "date": {
+                    "@standardDate":"1767",
+                    "#text":"1767"
+                   },
+                  "event": {
+                    "#text":"Founded Pimlico Chapel."
+                   }
+                 },
+                 {
+                  "date": {
+                    "@standardDate":"1774",
+                    "#text":"1774"
+                   },
+                  "event": {
+                    "#text":"Rented a house in the Mayfair district of London."
+                   }
+                 },
+                 {
+                  "date": {
+                    "@standardDate":"1777-02-01",
+                    "#text":"1777 February 1"
+                   },
+                  "event": {
+                    "#text":"Forged the name of Philip Stanhope on a £4200 letter of credit."
+                   }
+                 },
+                 {
+                  "date": {
+                    "@standardDate":"1777-02-22",
+                    "#text":"1777 February 2"
+                   },
+                  "event": {
+                    "#text":"Convicted of capital forgery."
+                   }
+                 },
+                 {
+                  "dateRange": {
+                    "toDate": {
+                      "@standardDate":"1777-06"
+                     },
+                    "fromDate": {
+                      "@standardDate":"1777-05"
+                     }
+                   },
+                  "event": {
+                    "#text":"Samuel Johnson led a public campaign to spare Dodd's life after he was sentenced to hang."
+                   }
+                 },
+                 {
+                  "date": {
+                    "@standardDate":"1777-06-27",
+                    "#text":"1777 June 27"
+                   },
+                  "event": {
+                    "#text":"Executed at the Tyburn gallows in London."
+                   }
+                 }
+               ]
+             }
+           ],
+          "p_array": [
+            "William Dodd (1729–1777) was born in Bourne, England, to Reverend William Dodd, the vicar of Bourne. An author and clergyman with the Church of England, Dodd was nicknamed the “Macaroni Parson” because of his colorful attire and profligate ways. He enjoyed moderate success as a writer but his sermons earned him greater renown. Dodd was unable to live within his means, and in February 1777, desperate for money, he signed a former student’s name to a £4200 letter of credit. He was arrested and convicted of capital forgery. Samuel Johnson famously lobbied for clemency on his behalf, to no avail; Dodd was hanged in June 1777.",
+            "<p xmlns=\"urn:isbn:1-931666-33-4\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">Dodd was educated at Clare College, Cambridge, from 1746 to 1749, after which he moved to London, where he initially pursued a literary career. He published <span localType=\"title\">Diggon Davy’s Resolution on the Death of his Last Cow</span>, a poem on foot-and-mouth disease, in 1747. With the income from his writing, Dodd leased an expensive house on Wardour Street. Thus began a string of bad financial decisions that would eventually ruin him.</p>",
+            "When he could not make ends meet as an author, he returned to Cambridge in 1752 and was ordained at Gonville and Caius College. He subsequently was appointed curate at All Saints’ in West Ham, where he also earned a lectureship. His style of preaching proved extremely popular, and Dodd gained further lectureships in London at St. James Garlickhythe (1753) and St. Olave, Hart Street (1754). In 1758, he was retained as chaplain at the newly formed Magdalen Hospital for penitent prostitutes.",
+            "<p xmlns=\"urn:isbn:1-931666-33-4\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">He continued to write, and in 1752 published <span localType=\"title\">The Beauties of Shakespeare</span>, a popular collection of quotations from the Bard’s works. Dodd increasingly focused on theological writing, producing a multi-part <span localType=\"title\">Commentary of the Bible</span> (1764) and contributing to and editing <span localType=\"title\">Christian Magazine</span> in 1760.</p>",
+            "<p xmlns=\"urn:isbn:1-931666-33-4\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">Dodd was fired from <span localType=\"title\">Christian Magazine</span> 1767 and failed to earn the livings of either All Saints' or St. Olave. He founded Pimlico Chapel in 1767, but the venture proved unsuccessful, and he was forced to abandon it in 1776. Meanwhile, his debts continued to mount. In 1774, he rented a house in the Mayfair district of London, placing himself in the crosshairs of his creditors. His wife, Mary, then apparently attempted to bribe Lady Apsley to help Dodd earn the living of St George’s in Hanover Square. Lord Apsley, upon learning of the scheme, had Dodd removed from the list of royal chaplains, effectively ending his career in the Church of England.</p>",
+            "Dodd had been hired as a tutor to Philip Dormer Stanhope, son of the earl of Chesterfield, in 1765, and the young student proved to be a supportive friend. After the bribery incident, which made him the subject of public ridicule in London, Dodd fled for Geneva, where he stayed with Stanhope.",
+            "It was Stanhope who gave Dodd the living of Wing in Berkshire and funds to pay some of his debts, but Dodd was still hounded by creditors. On February 1, 1777 he made the fatal decision to forge the £4200 bond and was almost immediately discovered. Although he made restitution, Dodd was arrested and imprisoned at Newgate, and Stanhope refused to intervene.",
+            "<p xmlns=\"urn:isbn:1-931666-33-4\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">He was convicted of capital forgery February 22. A sympathetic jury recommended mercy for Dodd, but he was sentenced to death in May. Johnson subsequently led a campaign to spare Dodd, which included speeches and petitions on Dodd’s behalf. Johnson also wrote for Dodd <span localType=\"title\">The Convict's Address to His Unhappy Brethren</span>. One of the petitions gathered twenty-three thousand signatures, and the Johnson’s efforts helped generate public support for the fallen preacher, but clemency was not granted.</p>",
+            "<p xmlns=\"urn:isbn:1-931666-33-4\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">Dodd penned his last work, <span localType=\"title\">Reflections on Death</span>, while awaiting execution. He was hanged on June 27 at the gallows in Tyburn and afterwards, was interred at St. Lawrence's Church, Cowley, Middlesex.</p>"
+           ]
+         }
+       ]
+     },
+    "identity": {
+      "nameEntry_array": [
+         {
+          "part_array": [
+             {
+              "@localType":"100a",
+              "part":"Dodd, William,"
+             },
+             {
+              "@localType":"100d",
+              "part":"1729-1777"
+             }
+           ],
+          "@lang":"",
+          "@scriptCode":"Latn",
+          "authorizedForm_array": [
+             {
+              "authorizedForm":"lcnaf"
+             }
+           ]
+         },
+         {
+          "alternativeForm_array": [
+             {
+              "alternativeForm":"lcnaf"
+             }
+           ],
+          "part_array": [
+             {
+              "@localType":"400a",
+              "part":"Dodd, W."
+             },
+             {
+              "@localType":"400q",
+              "part":"(William),"
+             },
+             {
+              "@localType":"400d",
+              "part":"1729-1777"
+             }
+           ],
+          "@lang":"",
+          "@scriptCode":"Latn"
+         },
+         {
+          "alternativeForm_array": [
+             {
+              "alternativeForm":"lcnaf"
+             }
+           ],
+          "part_array": [
+             {
+              "@localType":"400a",
+              "part":"Dodd,"
+             },
+             {
+              "@localType":"400c",
+              "part":"Doctor,"
+             },
+             {
+              "@localType":"400q",
+              "part":"(William),"
+             },
+             {
+              "@localType":"400d",
+              "part":"1729-1777"
+             }
+           ],
+          "@lang":"",
+          "@scriptCode":"Latn"
+         },
+         {
+          "alternativeForm_array": [
+             {
+              "alternativeForm":"lcnaf"
+             }
+           ],
+          "part_array": [
+             {
+              "@localType":"400a",
+              "part":"Dodd,"
+             },
+             {
+              "@localType":"400c",
+              "part":"Rev. Doctor,"
+             },
+             {
+              "@localType":"400q",
+              "part":"(William),"
+             },
+             {
+              "@localType":"400d",
+              "part":"1729-1777"
+             }
+           ],
+          "@lang":"",
+          "@scriptCode":"Latn"
+         },
+         {
+          "alternativeForm_array": [
+             {
+              "alternativeForm":"lcnaf"
+             }
+           ],
+          "part_array": [
+             {
+              "@localType":"400a",
+              "part":"Dodd,"
+             },
+             {
+              "@localType":"400c",
+              "part":"Rev. Mr.,"
+             },
+             {
+              "@localType":"400q",
+              "part":"(William),"
+             },
+             {
+              "@localType":"400d",
+              "part":"1729-1777"
+             }
+           ],
+          "@lang":"",
+          "@scriptCode":"Latn"
+         },
+         {
+          "alternativeForm_array": [
+             {
+              "alternativeForm":"lcnaf"
+             }
+           ],
+          "part_array": [
+             {
+              "@localType":"400a",
+              "part":"W.D."
+             },
+             {
+              "@localType":"400q",
+              "part":"(William Dodd),"
+             },
+             {
+              "@localType":"400d",
+              "part":"1729-1777"
+             }
+           ],
+          "@lang":"",
+          "@scriptCode":"Latn"
+         },
+         {
+          "alternativeForm_array": [
+             {
+              "alternativeForm":"lcnaf"
+             }
+           ],
+          "part_array": [
+             {
+              "@localType":"400a",
+              "part":"D.W."
+             },
+             {
+              "@localType":"400q",
+              "part":"(William Dodd),"
+             },
+             {
+              "@localType":"400d",
+              "part":"1729-1777"
+             }
+           ],
+          "@lang":"",
+          "@scriptCode":"Latn"
+         },
+         {
+          "@localType":"directOrder",
+          "part_array": [
+             {
+              "part":"William Dodd"
+             }
+           ],
+          "@lang":"",
+          "@scriptCode":"Latn"
+         }
+       ],
+      "entityType": {
+        "term":"person"
+       }
+     }
+   },
+  "dataType":"Constellation",
+  "control": {
+    "conventionDeclaration_array": [
+       {
+        "citation_array": [
+          "Art & Architecture Thesaurus"
+         ],
+        "abbreviation": {
+          "#text":"aat"
+         }
+       },
+       {
+        "citation_array": [
+          "Describing Archives: A Content Standard"
+         ],
+        "abbreviation": {
+          "#text":"dacs"
+         },
+        "descriptiveNote": {
+          "p_array": [
+            "Record created following DACS conventions."
+           ]
+         }
+       },
+       {
+        "citation_array": [
+          "Library of Congress Name Authority File"
+         ],
+        "abbreviation": {
+          "#text":"lcnaf"
+         }
+       },
+       {
+        "citation_array": [
+          "Library of Congress Subject Headings"
+         ],
+        "abbreviation": {
+          "#text":"lcsh"
+         }
+       }
+     ],
+    "maintenanceStatus": {
+      "term":"new"
+     },
+    "recordId": {
+      "ark":"FHCL.HOUGH:8822142"
+     },
+    "maintenanceEvents": [
+       {
+        "dataType":"MaintenanceEvent",
+        "agent": {
+          "#text":"Brooke McManus"
+         },
+        "eventType": {
+          "term":"created"
+         },
+        "eventDateTime":"2012-06-15",
+        "agentType": {
+          "term":"human"
+         }
+       },
+       {
+        "dataType":"MaintenanceEvent",
+        "agent": {
+          "#text":"Melanie Wisner"
+         },
+        "eventType": {
+          "term":"revised"
+         },
+        "eventDateTime":"2012-07-16",
+        "agentType": {
+          "term":"human"
+         }
+       }
+     ],
+    "otherRecordId_array": [
+       {
+        "@localType":"url",
+        "RecordId":"http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8822142"
+       }
+     ],
+    "maintenanceAgency": {
+      "agencyName_array": [
+         {
+          "agencyName":"Houghton Library, Harvard University"
+         }
+       ],
+      "agencyCode": {
+        "#text":"US-MH-H"
+       }
+     },
+    "sources": [
+       {
+        "dataType":"Source",
+        "displayName":"Library of Congress Control Number: n 85024059",
+        "type": {
+          "type":"source_type",
+          "@type":"simple"
+         }
+       },
+       {
+        "dataType":"Source",
+        "displayName":"Oxford Dictionary of National Biography",
+        "type": {
+          "type":"source_type",
+          "@type":"simple"
+         },
+        "descriptiveNote": {
+          "p_array": [
+            "<p xmlns=\"urn:isbn:1-931666-33-4\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">British Academy, and Oxford University Press. 2004. <span localType=\"title\">Oxford dictionary of national biography</span>. Oxford: Oxford University Press. http://www.oxforddnb.com/.</p>"
+           ]
+         }
+       }
+     ],
+    "languageDeclaration_array": [
+       {
+        "script": {
+          "#text":"Latin",
+          "@scriptCode":"Latn"
+         },
+        "language": {
+          "@languageCode":"eng",
+          "#text":"English"
+         }
+       }
+     ]
+   }
+ }
